@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica4</string>
+    <string name="title_home">Add</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Remove</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_inventario">Stock</string>
+    <string name="id">ID</string>
+    <string name="nombre">Nombre</string>
+    <string name="Stock">Cantidad</string>
+    <string name="Precio">Precio</string>
+    <string name="agregar">Agregar</string>
+    <string name="Eliminar">Eliminar</string>
+</resources>
